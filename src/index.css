@@ -2,7 +2,7 @@ h1 {
   text-align: center;
   font-size: 3rem;
   animation: text-change infinite 3s;
-  color: #333
+  color: #333;
 }
 
 body {
@@ -14,9 +14,11 @@ body {
   0% {
     color: #333;
   }
+
   50% {
     color: #fff;
   }
+
   100% {
     color: #333;
   }
@@ -26,9 +28,11 @@ body {
   0% {
     background-color: #fff;
   }
+
   50% {
     background-color: #333;
   }
+
   100% {
     background-color: #fff;
   }
